@@ -1,0 +1,24 @@
+{
+  "name": "ide-session-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://quantyzd@dev.azure.com/quantyzd/SOFY3.0/_git/node-ide-session-controller"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "get-port": "^5.1.1",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2",
+    "ws": "^7.4.3"
+  }
+}
