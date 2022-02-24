@@ -12,7 +12,7 @@ require("dotenv").config();
 
 const { log } = require("./lib/log");
 
-const PORT = process.env.PORT || 80;
+const PORT = process.env.PORT || 60276;
 app.set("port", PORT);
 
 const { APIURL, AUTHKEY } = process.env;
